@@ -1,5 +1,5 @@
 # İçerisinde;
-## -Anasayfa
-## -Hakkımızda
-## -İletişim
+## - Anasayfa
+## - Hakkımızda
+## - İletişim
 ## kısımları bulunan temel seviye web sitesi.
